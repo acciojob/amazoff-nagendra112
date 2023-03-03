@@ -5,9 +5,9 @@ public class Order {
     private String id;
     private int deliveryTime;
 
-    public Order(){
+   // public Order(){
 
-    }
+   // }
 
     public Order(String id, String deliveryTime) {
 
